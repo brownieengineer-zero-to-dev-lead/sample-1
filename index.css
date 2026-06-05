@@ -90,6 +90,7 @@ nav {
     width: 340px;
     height: 340px;
     background: linear-gradient(145deg, #e8c9b0, #d4a882);
+    object-fit: cover;
     border-radius: 50%;
     display: flex;
     align-items: center;
